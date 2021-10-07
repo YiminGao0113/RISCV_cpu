@@ -21,11 +21,11 @@ Yimin Gao – yg9bq@virginia.edu
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/YiminGao0113/RISC-V-Processor/blob/master/LICENSE.txt](https://github.com/YiminGao0113/RISC-V-Processor/blob/master/LICENSE.txt)
+[https://github.com/YiminGao0113/riscv_cpu/blob/main/LICENSE.txt](https://github.com/YiminGao0113/riscv_cpu/blob/main/LICENSE.txt)
 
 ## Contributing
 
-1. Fork it (<https://github.com/YiminGao0113/RISC-V-Processor/fork>)
+1. Fork it (<https://github.com/YiminGao0113/riscv_cpu/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
