@@ -4,8 +4,11 @@
 
 This is a project of a 32-bit risc-v processor. The processor can run machine language (including jump, branch instructions) using a text file MemoryDivide.txt reprensenting data stored in memory system.
 
-## Introduction
-The project is written in both VHDL and verilog. For the vhdl version, the RV32I_Processor_Structure.vhd is the highest hierachy synthesizable design entity that includes almost all the other components in the repository. It is a processor ported to a memory system. The ProcessorWithMemSys_Structure.vhd is the design entity for testing the processor performance with sequential machine code (MemoryDivide.txt) read by the memory system(MemorySystem_Behavior.vhd). The sequential machine code is a division operation that includes several conditional loops. Since the Memory system entity unit is not synthesizable, the ProcessorWithMemSys is not synthesizable as well. There is also a python assembler to convert assembly to machine code as txt files.
+TO DO: (In Spring 2022)
+1. Implement the whole RV32I with extensions
+2. Branch prediction, cache design
+3. Implement on an FPGA
+4. Write simple os and implement on FPGA
 
 ## Clone the project to your local system
 
